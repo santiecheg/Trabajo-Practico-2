@@ -1,5 +1,7 @@
-Trabajo Práctico 2
+Trabajo Práctico 2 (Primer año, Tecnicatura en Desarrollo de Software Encode)
+
 Introducción 
+
 Se solicita desarrollar en C# un sistema que simule vueltas de clasificación en una carrera. Cada vuelta está compuesta por tres sectores (S1, S2 y S3), en los que el piloto registra un tiempo parcial. A cada sector se le pueden aplicar penalizaciones que aumentan su tiempo.
 
 Requisitos del Sistema
